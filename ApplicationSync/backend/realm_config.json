@@ -1,0 +1,8 @@
+{
+    "app_id": "applicationsync-mtjfj",
+    "config_version": 20210101,
+    "name": "ApplicationSync",
+    "location": "DE-FF",
+    "provider_region": "azure-westeurope",
+    "deployment_model": "LOCAL"
+}
